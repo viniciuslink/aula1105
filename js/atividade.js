@@ -26,4 +26,4 @@ for (i=0; i<=6; i++)
 document.write((pratoDia[i])+":  "+(pratoPreco[i])+"<br>");
 
 
-document.write("o prato de hoje é: "+(pratoDiaI +1)+":"+(pratoDia[pratoDiaI])+" "+(pratoPreco[pratoDiaI]));
+document.write("o prato de hoje é: "+(pratoDiaI +1)+": "+(pratoDia[pratoDiaI])+" "+(pratoPreco[pratoDiaI]));
